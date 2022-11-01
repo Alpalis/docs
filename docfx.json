@@ -80,7 +80,7 @@
       "_gitUrlPattern": "github"
     },
     "fileMetadataFiles": [],
-    "template": [ "default", "templates/discordfx" ],
+    "template": [ "default", "templates/alpalisfx" ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
