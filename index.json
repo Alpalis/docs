@@ -1,22 +1,22 @@
 {
   "api/index.html": {
     "href": "api/index.html",
-    "title": "PLACEHOLDER | OpenMod Docs",
+    "title": "PLACEHOLDER | Alpalis Docs",
     "keywords": "PLACEHOLDER TODO: Add .NET projects to src folder and run docfx to generate a REAL API Documentation !"
   },
   "articles/intro.html": {
     "href": "articles/intro.html",
-    "title": "Add your introductions here! | OpenMod Docs",
+    "title": "Add your introductions here! | Alpalis Docs",
     "keywords": "Add your introductions here!"
   },
   "index.html": {
     "href": "index.html",
-    "title": "This is the HOMEPAGE. | OpenMod Docs",
+    "title": "This is the HOMEPAGE. | Alpalis Docs",
     "keywords": "This is the HOMEPAGE . Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to images folder if the file is referencing an image."
   },
   "README.html": {
     "href": "README.html",
-    "title": "Docs | OpenMod Docs",
+    "title": "Docs | Alpalis Docs",
     "keywords": "Docs"
   }
 }
