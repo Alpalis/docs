@@ -21,32 +21,25 @@
     "content": [
       {
         "files": [
-          "api/**.yml"
-        ],
-        "cwd": "obj"
+          "api/**.yml",
+          "api/index.md"
+        ]
       },
       {
         "files": [
-          "api/*.md",
           "plugins/**.md",
           "plugins/**/toc.yml",
           "toc.yml",
           "*.md"
-        ],
-        "exclude": [
-          "obj/**",
-          "_site/**"
         ]
       }
     ],
     "resource": [
       {
         "files": [
-          "images/**"
-        ],
-        "exclude": [
-          "obj/**",
-          "_site/**"
+          "images/**",
+          "favicon.ico",
+          "logo.png"
         ]
       }
     ],
