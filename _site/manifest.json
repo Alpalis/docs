@@ -4,12 +4,33 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "7SY3QRKcBbWQrxG8F8VEwmke5TOsgG+BW2pbFyeF/Hw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "STqPrgEySCButoJ/4Rw8+j8Kl8zBrynBNGMnKLeBnA0="
+          "hash": "Cq2GM6JOOT1bKmyk99MZMBVqncLdUqZlU9O1dY1HJU4="
         }
       },
       "is_incremental": false,
@@ -21,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "yF4cM99miGSsrT64oV0kgkl56YkQylthgw5Gl1aJqzo="
+          "hash": "E5tcDzXvPf/ELSLe2N9ffv00+iTyIOgbNE+T58R38Rg="
         }
       },
       "is_incremental": false,
@@ -33,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+          "hash": "Jhv4vOGF+iQ2dEvlwMsKYhvwX+6XMzruRP/qnLI3k+k="
         }
       },
       "is_incremental": false,
@@ -45,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "GGOovSab6ZFxRkwbTiKX/AxcXz9WU1qSZOSIhjRqq74="
+          "hash": "vlGD24JqtUhMgN8ljsxvX9nyH4EKlSVrxqC0OswxUIw="
         }
       },
       "is_incremental": false,
@@ -57,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "54i+GjGkcHU6vLaH03VxwxeqtQ0qatdslc+BlbETck0="
+          "hash": "gTPXgzEAE0jPFISUl/d069GvUCguxdtxcfJ7lc0MOB4="
         }
       },
       "is_incremental": false,
@@ -67,19 +88,17 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 3,
-          "skipped_file_count": 0
+          "total_file_count": 4,
+          "skipped_file_count": 4
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -93,7 +112,7 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
