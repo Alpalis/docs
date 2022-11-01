@@ -1,1 +1,1 @@
-﻿###Coś o pluginie
+﻿###Coś o pluginie t
