@@ -66,18 +66,14 @@
     "dest": "_site",
     "globalMetadataFiles": [],
     "globalMetadata": {
-      "_appName": "OpenMod Docs",
-      "_appTitle": "OpenMod Docs",
+      "_appName": "Alpalis Docs",
+      "_appTitle": "Alpalis Docs",
       "_appFaviconPath": "favicon.ico",
       "_appLogoPath": "logo.png",
       "_enableSearch": true,
       "_disableAffix": true,
-      "_appFooter": "OpenMod .NET Plugin Framework.",
-      "_disableSideFilter": true,
-      "_gitContribute": {
-        "repo": "https://github.com/openmod/openmod"
-      },
-      "_gitUrlPattern": "github"
+      "_appFooter": "Alpalis Plugins",
+      "_disableSideFilter": true
     },
     "fileMetadataFiles": [],
     "template": [ "default", "templates/alpalisfx" ],

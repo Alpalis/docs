@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "ZpYilKw2JQnlasPNMCL2N17Gq676Jl2GQvhzy3HP7VA="
+          "hash": "42VgGeBeCqV4U5Curj6cY7FJ0wlvHfrvNSdy0mocBDY="
         }
       },
       "is_incremental": false,
@@ -30,7 +30,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "k9y2RMDUoyqHjOY26SlhBYGC5Y+JAiqWEXc9QQ8AAA8="
+          "hash": "Nn0i7k8DZS8MA6OKSU7sDvB5aGDU3You+Fo1MX7T5ag="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "k4ITIOtdFkZnA7cG92zNCY+4nyVm1xlCNKr+Nqrt0Jw="
+          "hash": "5s8M0+d7vDGvNfEv9AnAjABD/1iNaGMzYhu8wNcNSxo="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "7CoG7zSFIUV7oF+gJ5E/IY94N2kW2Q15f95AHi8HZMY="
+          "hash": "SewX4JvuggJcxnmRfZGuqwu797RjnAIoZqMBT/qpuS0="
         }
       },
       "is_incremental": false,
@@ -88,17 +88,19 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because config changed.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ConfigChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 4,
-          "skipped_file_count": 4
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
