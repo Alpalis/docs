@@ -29,6 +29,7 @@
         "files": [
           "api/*.md",
           "plugins/**.md",
+          "plugins/**/toc.yml",
           "toc.yml",
           "*.md"
         ],

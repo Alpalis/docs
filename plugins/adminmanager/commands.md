@@ -1,1 +1,1 @@
-﻿###komendy
+﻿###komendy troche ich

@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/about.html",
-          "hash": "SjMv8tdPXLrhyOHSS3xPl7HdcVpmOvQP/lPyjZRtZkU="
+          "hash": "1H/zQv8C4NqtGPe4GGtw60t+aVQ+6/JfBRgDy4UNos4="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "bglBoA9yfa+x5xyoA5UJ6xb1u/fdyiAm83ueqWQUrwk="
+          "hash": "P5JN+xQvBJzvDK3KOa9c0Q+H+v4JVxLQvd+FVsluwwg="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,19 @@
       "output": {
         ".html": {
           "relative_path": "plugins/intro.html",
-          "hash": "JUBNtYwbRCIdKQx67smUQmMnitSbGfdXPH25DcRSXhk="
+          "hash": "hrXR0EZwj/Xa/m2FIFKA2EzTG6nUiZTqFg8pAkVvUu0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "plugins/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/toc.html",
+          "hash": "KGTMtBic1AHH0uAyGaMF7Dq1BIn3aWYortcJda4rQjM="
         }
       },
       "is_incremental": false,
