@@ -53,11 +53,24 @@
     <None Include="index.md" />
     <None Include="packages.config" />
     <None Include="templates\alpalisfx\layout\_master.tmpl" />
+    <None Include="templates\alpalisfx\partials\footer.tmpl.partial" />
+    <None Include="templates\alpalisfx\partials\head.tmpl.partial" />
+    <None Include="templates\alpalisfx\partials\li.tmpl.partial" />
+    <None Include="templates\alpalisfx\partials\logo.tmpl.partial" />
+    <None Include="templates\alpalisfx\partials\navbar.tmpl.partial" />
+    <None Include="templates\alpalisfx\partials\scripts.tmpl.partial" />
+    <None Include="templates\alpalisfx\partials\toc.tmpl.partial" />
     <None Include="toc.yml" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="templates\alpalisfx\partials\" />
-    <Folder Include="templates\alpalisfx\styles\" />
+    <Content Include="templates\alpalisfx\styles\colors.css" />
+    <Content Include="templates\alpalisfx\styles\discord.css" />
+    <Content Include="templates\alpalisfx\styles\down-arrow.svg" />
+    <Content Include="templates\alpalisfx\styles\jquery.twbsPagination.js" />
+    <Content Include="templates\alpalisfx\styles\main.css" />
+    <Content Include="templates\alpalisfx\styles\main.js" />
+    <Content Include="templates\alpalisfx\styles\url.min.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\docfx.console.2.59.4\build\docfx.console.targets" Condition="Exists('packages\docfx.console.2.59.4\build\docfx.console.targets')" />
