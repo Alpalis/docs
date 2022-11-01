@@ -60,9 +60,23 @@
         ]
       }
     ],
-    "dest": "_site",
-    "template": [
-      "default"
-    ]
+    "globalMetadata": {
+      "_appName": "Alpalis Docs",
+      "_appTitle": "Alpalis Docs",
+      "_appFaviconPath": "favicon.ico",
+      "_appLogoPath": "logo.png",
+      "_enableSearch": true,
+      "_disableAffix": true,
+      "_appFooter": "Alpalis Plugins.",
+      "_disableSideFilter": true
+    },
+    "fileMetadataFiles": [],
+    "template": [ "default", "templates/alpalisfx" ],
+    "postProcessors": [],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": false
   }
 }
