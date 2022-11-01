@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/about.html",
-          "hash": "4S1QoEptvWPvbf9ZG78UXw=="
+          "hash": "qnUSOlsKk35K6ZPPTH4RYQ=="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "1Y9zuU+DK3kuNd8+0LskIw=="
+          "hash": "3B5sf5OwcE7bziqQx8pgsw=="
         }
       },
       "is_incremental": false,
@@ -78,7 +78,19 @@
       "output": {
         ".html": {
           "relative_path": "plugins/intro.html",
-          "hash": "teeWgJYHiV+LMb17178uCw=="
+          "hash": "lv3q0h3/ydPoNc5lZVIY+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "plugins/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/toc.html",
+          "hash": "7P167i+1il24+1rCoUJ3Cg=="
         }
       },
       "is_incremental": false,
