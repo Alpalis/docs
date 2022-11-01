@@ -19,7 +19,7 @@ jobs:
     - uses: nikeee/docfx-action@v1.0.0
       name: Build Documentation
       with:
-        args: docs/docfx.json
+        args: docfx.json
     - uses: peaceiris/actions-gh-pages@v3
       name: Publish Documentation on GitHub Pages
       with:
