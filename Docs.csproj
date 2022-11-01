@@ -47,8 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="api\index.md" />
-    <None Include="articles\intro.md" />
-    <None Include="articles\toc.md" />
+    <None Include="plugins\adminmanager\about.md" />
+    <None Include="plugins\adminmanager\commands.md" />
+    <None Include="plugins\intro.md" />
+    <None Include="plugins\toc.yml" />
     <None Include="docfx.json" />
     <None Include="index.md" />
     <None Include="packages.config" />

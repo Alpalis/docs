@@ -38,30 +38,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "0BZjvDK9ZKNFMqx98zq1xhf6/l0rU1DT2yacV11kybE="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/toc.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "1xit5JjzH63LgljgDz4e9VvuW71wZ9AWgXSv4vpyJQA="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
@@ -73,12 +49,48 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/adminmanager/about.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/adminmanager/about.html",
+          "hash": "SjMv8tdPXLrhyOHSS3xPl7HdcVpmOvQP/lPyjZRtZkU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/adminmanager/commands.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/adminmanager/commands.html",
+          "hash": "bglBoA9yfa+x5xyoA5UJ6xb1u/fdyiAm83ueqWQUrwk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "plugins/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "plugins/intro.html",
+          "hash": "JUBNtYwbRCIdKQx67smUQmMnitSbGfdXPH25DcRSXhk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "xKHY3ago3HTV2Tu+IXLTlD1buvJZwz4yAyCxMZWJm1I="
+          "hash": "uSuGI2fsIfNd73WzbllR4n+xzY6ykGwhYcKryyiu2jM="
         }
       },
       "is_incremental": false,
@@ -97,8 +109,8 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 4,
-          "skipped_file_count": 4
+          "total_file_count": 6,
+          "skipped_file_count": 3
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
