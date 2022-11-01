@@ -1,0 +1,28 @@
+name: Main
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
+    paths:
+      - '.github/workflows/main.yaml'
+      - 'docs/**'
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: GitHub Pages Deployment
+    steps:
+    - uses: actions/checkout@v2
+      name: Checkout Repository
+      with:
+        fetch-depth: 0
+    - uses: nikeee/docfx-action@v1.0.0
+      name: Build Documentation
+      with:
+        args: docfx.json
+    - uses: peaceiris/actions-gh-pages@v3
+      name: Publish Documentation on GitHub Pages
+      with:
+        publish_dir: _site
+        personal_token: ${{ secrets.GH_PAT }}
+        publish_branch: page
