@@ -1,15 +1,36 @@
 {
   "homepages": [],
-  "source_base_path": "C:/Users/pande/source/repos/Docs",
+  "source_base_path": "/github/workspace",
   "xrefmap": "xrefmap.yml",
   "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "VVya2vOCvQVAjRUwqu2bSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
     {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "STqPrgEySCButoJ/4Rw8+j8Kl8zBrynBNGMnKLeBnA0="
+          "hash": "MZpALW8KGVoO76scKIc0xg=="
         }
       },
       "is_incremental": false,
@@ -21,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "yF4cM99miGSsrT64oV0kgkl56YkQylthgw5Gl1aJqzo="
+          "hash": "ov1H2rzEEVw/PKGwvudVbg=="
         }
       },
       "is_incremental": false,
@@ -33,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+          "hash": "vhZ1gDMjm7Nz5sgSsvWIfA=="
         }
       },
       "is_incremental": false,
@@ -45,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "GGOovSab6ZFxRkwbTiKX/AxcXz9WU1qSZOSIhjRqq74="
+          "hash": "crDKuuVcypy4/8vqDI/ArQ=="
         }
       },
       "is_incremental": false,
@@ -57,7 +78,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "54i+GjGkcHU6vLaH03VxwxeqtQ0qatdslc+BlbETck0="
+          "hash": "ycFLFR4sTfjY2yQI+PhA1A=="
         }
       },
       "is_incremental": false,
@@ -78,7 +99,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
@@ -93,7 +114,7 @@
     {
       "status": {
         "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0
