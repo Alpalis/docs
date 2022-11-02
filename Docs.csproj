@@ -47,6 +47,26 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="api\index.md" />
+    <None Include="plugins\garageservice\about.md" />
+    <None Include="plugins\garageservice\commands.md" />
+    <None Include="plugins\moreroleplay\about.md" />
+    <None Include="plugins\moreroleplay\commands.md" />
+    <None Include="plugins\queuemanager\about.md" />
+    <None Include="plugins\queuemanager\commands.md" />
+    <None Include="plugins\userdatamanager\about.md" />
+    <None Include="plugins\userdatamanager\commands.md" />
+    <None Include="plugins\utilityservices\about.md" />
+    <None Include="plugins\utilityservices\commands.md" />
+    <None Include="plugins\voicesystem\about.md" />
+    <None Include="plugins\voicesystem\commands.md" />
+    <None Include="plugins\itemrestriction\about.md" />
+    <None Include="plugins\itemrestriction\commands.md" />
+    <None Include="plugins\identitymanager\about.md" />
+    <None Include="plugins\identitymanager\commands.md" />
+    <None Include="plugins\bettervehicles\about.md" />
+    <None Include="plugins\bettervehicles\commands.md" />
+    <None Include="plugins\betterinterface\about.md" />
+    <None Include="plugins\betterinterface\commands.md" />
     <None Include="plugins\adminmanager\about.md" />
     <None Include="plugins\adminmanager\commands.md" />
     <None Include="plugins\intro.md" />

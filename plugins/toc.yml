@@ -6,3 +6,63 @@
     href: adminmanager/about.md
   - name: Commands
     href: adminmanager/commands.md
+- name: BetterInterface
+  items: 
+  - name: About
+    href: betterinterface/about.md
+  - name: Commands
+    href: betterinterface/commands.md
+- name: BetterVehicles
+  items: 
+  - name: About
+    href: bettervehicles/about.md
+  - name: Commands
+    href: bettervehicles/commands.md
+- name: GarageService
+  items: 
+  - name: About
+    href: garageservice/about.md
+  - name: Commands
+    href: garageservice/commands.md
+- name: IdentityManager
+  items: 
+  - name: About
+    href: identitymanager/about.md
+  - name: Commands
+    href: identitymanager/commands.md
+- name: ItemRestriction
+  items: 
+  - name: About
+    href: itemrestriction/about.md
+  - name: Commands
+    href: itemrestriction/commands.md
+- name: MoreRoleplay
+  items: 
+  - name: About
+    href: moreroleplay/about.md
+  - name: Commands
+    href: moreroleplay/commands.md
+- name: QueueManager
+  items: 
+  - name: About
+    href: queuemanager/about.md
+  - name: Commands
+    href: queuemanager/commands.md
+- name: UserDataManager
+  items: 
+  - name: About
+    href: userdatamanager/about.md
+  - name: Commands
+    href: userdatamanager/commands.md
+- name: UtilityServices
+  items: 
+  - name: About
+    href: utilityservices/about.md
+  - name: Commands
+    href: utilityservices/commands.md
+- name: VoiceSystem
+  items: 
+  - name: About
+    href: voicesystem/about.md
+  - name: Commands
+    href: voicesystem/commands.md

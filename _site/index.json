@@ -19,10 +19,110 @@
     "title": "Commands: | Alpalis Docs",
     "keywords": "Commands: Command Subcommand Description /adminmode <get/switch> Command to manage the admin mode. - get [player] Command to get state of your or player's admin mode. - switch [player] Command to turn on and off the admin mode. /fly <get/switch> Command to manage the fly modes. - get [player] Command to get state of your or player's fly modes. - switch [player] Command to turn on and off the fly mode. /god <get/switch> Command to manage the god modes. - get [player] Command to turn on and off the god modes. - switch [player] Command to get state of your or player's god modes. /vanish <get/switch> Command to manage the vanish. - get [player] Command to get state of your or player's vanish. - switch [player] Command to turn on and off the vanish."
   },
+  "plugins/betterinterface/about.html": {
+    "href": "plugins/betterinterface/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/betterinterface/commands.html": {
+    "href": "plugins/betterinterface/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/bettervehicles/about.html": {
+    "href": "plugins/bettervehicles/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/bettervehicles/commands.html": {
+    "href": "plugins/bettervehicles/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/garageservice/about.html": {
+    "href": "plugins/garageservice/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/garageservice/commands.html": {
+    "href": "plugins/garageservice/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/identitymanager/about.html": {
+    "href": "plugins/identitymanager/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/identitymanager/commands.html": {
+    "href": "plugins/identitymanager/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
   "plugins/intro.html": {
     "href": "plugins/intro.html",
     "title": "| Alpalis Docs",
     "keywords": "###Test"
+  },
+  "plugins/itemrestriction/about.html": {
+    "href": "plugins/itemrestriction/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/itemrestriction/commands.html": {
+    "href": "plugins/itemrestriction/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/moreroleplay/about.html": {
+    "href": "plugins/moreroleplay/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/moreroleplay/commands.html": {
+    "href": "plugins/moreroleplay/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/queuemanager/about.html": {
+    "href": "plugins/queuemanager/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/queuemanager/commands.html": {
+    "href": "plugins/queuemanager/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/userdatamanager/about.html": {
+    "href": "plugins/userdatamanager/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/userdatamanager/commands.html": {
+    "href": "plugins/userdatamanager/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/utilityservices/about.html": {
+    "href": "plugins/utilityservices/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/utilityservices/commands.html": {
+    "href": "plugins/utilityservices/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
+  },
+  "plugins/voicesystem/about.html": {
+    "href": "plugins/voicesystem/about.html",
+    "title": "| Alpalis Docs",
+    "keywords": "###Coś o pluginie t"
+  },
+  "plugins/voicesystem/commands.html": {
+    "href": "plugins/voicesystem/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands:"
   },
   "README.html": {
     "href": "README.html",
