@@ -11,8 +11,8 @@
   },
   "plugins/adminmanager/about.html": {
     "href": "plugins/adminmanager/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "AdminManager Plugin | Alpalis Docs",
+    "keywords": "AdminManager Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/adminmanager/commands.html": {
     "href": "plugins/adminmanager/commands.html",
@@ -21,8 +21,8 @@
   },
   "plugins/betterinterface/about.html": {
     "href": "plugins/betterinterface/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "BetterInterface Plugin | Alpalis Docs",
+    "keywords": "BetterInterface Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/betterinterface/commands.html": {
     "href": "plugins/betterinterface/commands.html",
@@ -31,8 +31,8 @@
   },
   "plugins/bettervehicles/about.html": {
     "href": "plugins/bettervehicles/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "BetterVehicles Plugin | Alpalis Docs",
+    "keywords": "BetterVehicles Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/bettervehicles/commands.html": {
     "href": "plugins/bettervehicles/commands.html",
@@ -41,8 +41,8 @@
   },
   "plugins/garageservice/about.html": {
     "href": "plugins/garageservice/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "GarageService Plugin | Alpalis Docs",
+    "keywords": "GarageService Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/garageservice/commands.html": {
     "href": "plugins/garageservice/commands.html",
@@ -51,8 +51,8 @@
   },
   "plugins/identitymanager/about.html": {
     "href": "plugins/identitymanager/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "IdentityManager Plugin | Alpalis Docs",
+    "keywords": "IdentityManager Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/identitymanager/commands.html": {
     "href": "plugins/identitymanager/commands.html",
@@ -66,8 +66,8 @@
   },
   "plugins/itemrestriction/about.html": {
     "href": "plugins/itemrestriction/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "ItemRestriction Plugin | Alpalis Docs",
+    "keywords": "ItemRestriction Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/itemrestriction/commands.html": {
     "href": "plugins/itemrestriction/commands.html",
@@ -76,8 +76,8 @@
   },
   "plugins/moreroleplay/about.html": {
     "href": "plugins/moreroleplay/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "MoreRoleplay Plugin | Alpalis Docs",
+    "keywords": "MoreRoleplay Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/moreroleplay/commands.html": {
     "href": "plugins/moreroleplay/commands.html",
@@ -86,8 +86,8 @@
   },
   "plugins/queuemanager/about.html": {
     "href": "plugins/queuemanager/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "QueueManager Plugin | Alpalis Docs",
+    "keywords": "QueueManager Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/queuemanager/commands.html": {
     "href": "plugins/queuemanager/commands.html",
@@ -96,8 +96,8 @@
   },
   "plugins/userdatamanager/about.html": {
     "href": "plugins/userdatamanager/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "UserDataManager Plugin | Alpalis Docs",
+    "keywords": "UserDataManager Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/userdatamanager/commands.html": {
     "href": "plugins/userdatamanager/commands.html",
@@ -106,8 +106,8 @@
   },
   "plugins/utilityservices/about.html": {
     "href": "plugins/utilityservices/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "UtilityServices Plugin | Alpalis Docs",
+    "keywords": "UtilityServices Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/utilityservices/commands.html": {
     "href": "plugins/utilityservices/commands.html",
@@ -116,8 +116,8 @@
   },
   "plugins/voicesystem/about.html": {
     "href": "plugins/voicesystem/about.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Coś o pluginie t"
+    "title": "VoiceSystem Plugin | Alpalis Docs",
+    "keywords": "VoiceSystem Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
   },
   "plugins/voicesystem/commands.html": {
     "href": "plugins/voicesystem/commands.html",
