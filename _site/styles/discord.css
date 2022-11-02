@@ -44,11 +44,10 @@ h1,h2,h3,h4,h5
 
 .top {
     background: linear-gradient(90deg, #FF9966 0%, #B86377 100%);
-    width: 100%;
+    width: 100vw;
     height: 30px;
-    top: 0;
-    left: 0;
-    position: absolute;
+    margin: -20px -40px 0 -40px;
+    position: relative;
 }
 
 h1, h2
