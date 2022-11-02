@@ -19,6 +19,7 @@
     --h5-color: #ffffffd1;
     /* Topbar */
     --topbar-bg-color: #18191c;
+    --topline-bg-color: linear-gradient(90deg, #FF9966 0%, #B86377 100%);
     /* Button */
     --button-color: #747f8d;
     /* Sidebar */

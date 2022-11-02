@@ -67,10 +67,9 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="templates\alpalisfx\styles\colors.css" />
-    <Content Include="templates\alpalisfx\styles\discord.css" />
+    <Content Include="templates\alpalisfx\styles\main.css" />
     <Content Include="templates\alpalisfx\styles\down-arrow.svg" />
     <Content Include="templates\alpalisfx\styles\jquery.twbsPagination.js" />
-    <Content Include="templates\alpalisfx\styles\main.css" />
     <Content Include="templates\alpalisfx\styles\main.js" />
     <Content Include="templates\alpalisfx\styles\url.min.js" />
   </ItemGroup>
