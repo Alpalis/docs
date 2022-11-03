@@ -1,6 +1,6 @@
 - name: Our Team
-  href: ourteam.md
+  href: ourteam
 - name: Servers
-  href: servers.md
+  href: servers
 - name: Plugins
   href: plugins/
