@@ -9,6 +9,11 @@
     "title": "This is the HOMEPAGE. | Alpalis Docs",
     "keywords": "This is the HOMEPAGE . Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to images folder if the file is referencing an image."
   },
+  "ourteam.html": {
+    "href": "ourteam.html",
+    "title": "| Alpalis Docs",
+    "keywords": ""
+  },
   "plugins/adminmanager/about.html": {
     "href": "plugins/adminmanager/about.html",
     "title": "AdminManager Plugin | Alpalis Docs",
@@ -128,5 +133,10 @@
     "href": "README.html",
     "title": "Docs | Alpalis Docs",
     "keywords": "Docs"
+  },
+  "servers.html": {
+    "href": "servers.html",
+    "title": "| Alpalis Docs",
+    "keywords": ""
   }
 }

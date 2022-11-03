@@ -37,11 +37,12 @@
       "version": ""
     },
     {
-      "type": "Resource",
-      "source_relative_path": "favicon.ico",
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
       "output": {
-        "resource": {
-          "relative_path": "favicon.ico"
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "wF4hcPRB+9B08RXn7DPFUw=="
         }
       },
       "is_incremental": false,
@@ -49,11 +50,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "index.md",
+      "source_relative_path": "ourteam.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "wF4hcPRB+9B08RXn7DPFUw=="
+          "relative_path": "ourteam.html",
+          "hash": "TeHIqzODeBhEQw7u1w2y+g=="
         }
       },
       "is_incremental": false,
@@ -348,12 +349,24 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "servers.md",
+      "output": {
+        ".html": {
+          "relative_path": "servers.html",
+          "hash": "TeHIqzODeBhEQw7u1w2y+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "gozrX2ivyBto9zkSClU1lg=="
+          "hash": "PG8un1BkmDbRwnmijs+7Rw=="
         }
       },
       "is_incremental": false,
@@ -374,14 +387,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 26,
-          "skipped_file_count": 0
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
+          "total_file_count": 28,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
