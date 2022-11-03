@@ -1,68 +1,68 @@
 - name: Introduction
-  href: intro.md
+  href: intro
 - name: AdminManager
   items: 
   - name: About
-    href: adminmanager/about.md
+    href: adminmanager/about
   - name: Commands
-    href: adminmanager/commands.md
+    href: adminmanager/commands
 - name: BetterInterface
   items: 
   - name: About
-    href: betterinterface/about.md
+    href: betterinterface/about
   - name: Commands
-    href: betterinterface/commands.md
+    href: betterinterface/commands
 - name: BetterVehicles
   items: 
   - name: About
-    href: bettervehicles/about.md
+    href: bettervehicles/about
   - name: Commands
-    href: bettervehicles/commands.md
+    href: bettervehicles/commands
 - name: GarageService
   items: 
   - name: About
-    href: garageservice/about.md
+    href: garageservice/about
   - name: Commands
-    href: garageservice/commands.md
+    href: garageservice/commands
 - name: IdentityManager
   items: 
   - name: About
-    href: identitymanager/about.md
+    href: identitymanager/about
   - name: Commands
-    href: identitymanager/commands.md
+    href: identitymanager/commands
 - name: ItemRestriction
   items: 
   - name: About
-    href: itemrestriction/about.md
+    href: itemrestriction/about
   - name: Commands
-    href: itemrestriction/commands.md
+    href: itemrestriction/commands
 - name: MoreRoleplay
   items: 
   - name: About
-    href: moreroleplay/about.md
+    href: moreroleplay/about
   - name: Commands
-    href: moreroleplay/commands.md
+    href: moreroleplay/commands
 - name: QueueManager
   items: 
   - name: About
-    href: queuemanager/about.md
+    href: queuemanager/about
   - name: Commands
-    href: queuemanager/commands.md
+    href: queuemanager/commands
 - name: UserDataManager
   items: 
   - name: About
-    href: userdatamanager/about.md
+    href: userdatamanager/about
   - name: Commands
-    href: userdatamanager/commands.md
+    href: userdatamanager/commands
 - name: UtilityServices
   items: 
   - name: About
-    href: utilityservices/about.md
+    href: utilityservices/about
   - name: Commands
-    href: utilityservices/commands.md
+    href: utilityservices/commands
 - name: VoiceSystem
   items: 
   - name: About
-    href: voicesystem/about.md
+    href: voicesystem/about
   - name: Commands
-    href: voicesystem/commands.md
+    href: voicesystem/commands
