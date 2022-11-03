@@ -100,11 +100,11 @@ ul.level2, ul.level3 {
     font-size: .9em;
 }
 
-a 
-{
+a {
     color: var(--link-color);
     text-decoration: none;
     transition: color .25s;
+    -webkit-tap-highlight-color: var(--link-tap-bg-color)
 }
 
 a:focus, a:hover 
