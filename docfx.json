@@ -55,7 +55,7 @@
       }
     ],
     "xref": [
-      "no"
+      "xref.json"
     ],
     "dest": "_site",
     "globalMetadataFiles": [],

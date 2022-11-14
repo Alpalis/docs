@@ -103,7 +103,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "Rp8KVje3osLmd+Cu0VnRFJiApvWhJlCovelrtxnEP84="
+          "hash": "YGrnfCwZ6b54JE5em44+XwqYMxlA4F0NvYkPe8paIys="
         }
       },
       "is_incremental": false,
@@ -407,17 +407,19 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because config changed.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ConfigChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 28,
-          "skipped_file_count": 27
+          "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
