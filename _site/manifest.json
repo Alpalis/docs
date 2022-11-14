@@ -95,15 +95,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "plugins/adminmanager/commands.md",
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "YGrnfCwZ6b54JE5em44+XwqYMxlA4F0NvYkPe8paIys="
+          "hash": "VzXosf0qTD1iqU1UIfMbV84Yp+g4JLTvh7F2BJjY6V0="
         }
       },
       "is_incremental": false,
@@ -407,19 +404,17 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because config changed.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ConfigChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 28,
-          "skipped_file_count": 0
+          "skipped_file_count": 27
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
