@@ -1,7 +1,7 @@
 ﻿
 # Commands:
 
-| Command | Subcommand | Description | AdminMode Required | Command Actor  |
+| Command(Aliases) | Subcommand | Description | AdminMode Required | Command Actor  |
 |--|--|--|--|--|
 | /adminmode <get/switch> |  | Command to manage the admin mode. | [ X ] | [ UnturnedUser & Console ] |
 |  | - get [player] **(\<player>)¹** | Command to get state of your or player's admin mode. | [ — ] | [ UnturnedUser & Console ] |
@@ -28,5 +28,17 @@
 |  | - clear | Command to clear chat. | [ ✓ ] | [ UnturnedUser & Console ] |
 |  | - disable | Command to disable chat. | [ ✓ ] | [ UnturnedUser & Console ] |
 |  | - enable | Command to enable chat. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /ascend(up) [distance] |  | Command that teleports you up. | [ ✓ ] | [ Only UnturnedUser ] |
+| /descend(down) [distance] |  | Command that teleports you down. | [ ✓ ] | [ Only UnturnedUser ] |
+| /jump(jmp) |  | Jump to where you're looking. | [ ✓ ] | [ Only UnturnedUser ] |
+| /gravity <multipler> [player]**(\<multipler> <player>)** |  | Command to set gravity. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /jumpheight <multipler> [player]**(\<multipler> <player>)** |  | Command to set jump height. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /speed <multipler> [player]**(\<multipler> <player>)** |  | Command to set speed. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /teleport(tp) [player] <player/place/marker>**(\<player> <player/place>)** |  | Command to teleport player to another player or place. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /experience(exp) <get/add/set/take> |  | Command to manage your or somebody's experience. | [ X ] | [ UnturnedUser & Console ] |
+|  | - add <amount> [player] **(\<amount> <player>)** | Command to add your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
+|  | - set <amount> [player] **(\<amount> <player>)** | Command to set your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
+|  | - take <amount> [player] **(\<amount> <player>)** | Command to take your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
+|  | - get [player] **(\<player>)** | Command to get your or somebody's experience. | [ — ] | [ UnturnedUser & Console ] |
 
 ¹ - syntax for the command called in the console
