@@ -3,7 +3,7 @@
 
 | Command(Aliases) | Subcommand | Description | AdminMode Required | Command Actor  |
 |--|--|--|--|--|
-| /adminmode \<get/switch\> |  | Command to manage the admin mode. | [ X ] | [ UnturnedUser & Console ] |
+| /adminmode \<get/switch\> |  | Command to manage the admin mode. | [ X ] | !(unturned-ico)[https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/64x64.png] !(console-ico)[https://img.icons8.com/glyph-neue/64/null/console.png] |
 |  | - get [player] **(\<player\>)¹** | Command to get state of your or player's admin mode. | [ — ] | [ UnturnedUser & Console ] |
 |  | - switch [player] **(\<player\>)** | Command to turn on and off the admin mode. | [ — ] | [ UnturnedUser & Console ] |
 | /fly \<get/switch\> |  | Command to manage the fly modes. | [ — ] | [ UnturnedUser & Console ] |
