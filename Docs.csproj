@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="api\index.md" />
+    <None Include="manifest.json" />
     <None Include="ourteam.md" />
     <None Include="plugins\garageservice\about.md" />
     <None Include="plugins\garageservice\commands.md" />
