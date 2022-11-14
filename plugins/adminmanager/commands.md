@@ -20,5 +20,13 @@
 | /virus [player] **(\<player>)** |  | Command to set virus for yourself and other players. | [ ✓ ] | [ UnturnedUser & Console ] |
 | /water [player] **(\<player>)** |  | Command to set water for yourself and other players. | [ ✓ ] | [ UnturnedUser & Console ] |
 | /compass [North/South/East/West] |  | Command that shows direction you are facing or turn to face a specific direction | [ ✓ ] | [ Only UnturnedUser ] |
+| /position [player] **(\<player>)** |  | Command that shows your or somebody's position. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /rotation [player] **(\<player>)** |  | Command that shows your or somebody's rotation. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /tps |  | Command that shows TPS. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /annoucement <message> |  | Command to post annoucements. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /chat <clear/enable/disable> |  | Command to manage chat. | [ X ] | [ UnturnedUser & Console ] |
+|  | - clear | Command to clear chat. | [ ✓ ] | [ UnturnedUser & Console ] |
+|  | - disable | Command to disable chat. | [ ✓ ] | [ UnturnedUser & Console ] |
+|  | - enable | Command to enable chat. | [ ✓ ] | [ UnturnedUser & Console ] |
 
 ¹ - syntax for the command called in the console
