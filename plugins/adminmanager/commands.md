@@ -31,10 +31,10 @@
 | /ascend(up) [distance] |  | Command that teleports you up. | [ ✓ ] | [ Only UnturnedUser ] |
 | /descend(down) [distance] |  | Command that teleports you down. | [ ✓ ] | [ Only UnturnedUser ] |
 | /jump(jmp) |  | Jump to where you're looking. | [ ✓ ] | [ Only UnturnedUser ] |
-| /gravity <multipler> [player]**(\<multipler> <player>)** |  | Command to set gravity. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /jumpheight <multipler> [player]**(\<multipler> <player>)** |  | Command to set jump height. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /speed <multipler> [player]**(\<multipler> <player>)** |  | Command to set speed. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /teleport(tp) [player] <player/place/marker>**(\<player> <player/place>)** |  | Command to teleport player to another player or place. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /gravity <multipler> [player] **(\<multipler> <player>)** |  | Command to set gravity. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /jumpheight <multipler> [player] **(\<multipler> <player>)** |  | Command to set jump height. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /speed <multipler> [player] **(\<multipler> <player>)** |  | Command to set speed. | [ ✓ ] | [ UnturnedUser & Console ] |
+| /teleport(tp) [player] <player/place/marker> **(\<player> <player/place>)** |  | Command to teleport player to another player or place. | [ ✓ ] | [ UnturnedUser & Console ] |
 | /experience(exp) <get/add/set/take> |  | Command to manage your or somebody's experience. | [ X ] | [ UnturnedUser & Console ] |
 |  | - add <amount> [player] **(\<amount> <player>)** | Command to add your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
 |  | - set <amount> [player] **(\<amount> <player>)** | Command to set your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
