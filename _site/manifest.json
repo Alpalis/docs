@@ -60,10 +60,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/not_required.png",
+      "source_relative_path": "images/not_requred.png",
       "output": {
         "resource": {
-          "relative_path": "images/not_required.png"
+          "relative_path": "images/not_requred.png"
         }
       },
       "is_incremental": false,
@@ -136,7 +136,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "HG2XqkAouq/ziGMrsIkZqUoym0nUMM6amF0eZ3MTP0w="
+          "hash": "WK7QHIglB8ITVTqpXfFMrqfUB/72JLC3TBk7QGnoxls="
         }
       },
       "is_incremental": false,

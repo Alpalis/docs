@@ -3,7 +3,7 @@
 
 | Command(Aliases) | Subcommand | Description | AdminMode Required | Command Actor  |
 |--|--|--|--|--|
-| /adminmode \<get/switch\> |  | Command to manage the admin mode. | <center>![is_required](../../images/no_required.png)</center> | <pre><center>![unturned-ico](../../images/unturned.png)  ![console-ico](../../images/console.png)</center></pre> |
+| /adminmode \<get/switch\> |  | Command to manage the admin mode. | <center>![is_required](../../images/not_required.png)</center> | <pre><center>![unturned-ico](../../images/unturned.png)  ![console-ico](../../images/console.png)</center></pre> |
 |  | - get [player] **(\<player\>)¹** | Command to get state of your or player's admin mode. | <center>![is_required](../../images/half_required.png)</center> | <pre><center>![unturned-ico](../../images/unturned.png)  ![console-ico](../../images/console.png)</center></pre> |
 |  | - switch [player] **(\<player\>)** | Command to turn on and off the admin mode. | <center>![is_required](../../images/half_required.png)</center> | <pre><center>![unturned-ico](../../images/unturned.png)  ![console-ico](../../images/console.png)</center></pre> |
 | /fly \<get/switch\> |  | Command to manage the fly modes. | <center>![is_required](../../images/half_required.png)</center> | <pre><center>![unturned-ico](../../images/unturned.png)  ![console-ico](../../images/console.png)</center></pre> |
