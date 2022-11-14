@@ -49,6 +49,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/half_required.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/half_required.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/not_required.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/not_required.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/required.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/required.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/unturned.png",
       "output": {
         "resource": {
@@ -95,12 +128,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "plugins/adminmanager/commands.md",
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "VzXosf0qTD1iqU1UIfMbV84Yp+g4JLTvh7F2BJjY6V0="
+          "hash": "HG2XqkAouq/ziGMrsIkZqUoym0nUMM6amF0eZ3MTP0w="
         }
       },
       "is_incremental": false,
