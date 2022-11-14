@@ -128,15 +128,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "plugins/adminmanager/commands.md",
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "720cB9e2SBilSn9sIuGaKA=="
+          "hash": "0oDLNQTkbbpx2+gr9gRgAQ=="
         }
       },
       "is_incremental": false,
