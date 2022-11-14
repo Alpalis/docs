@@ -3,42 +3,42 @@
 
 | Command(Aliases) | Subcommand | Description | AdminMode Required | Command Actor  |
 |--|--|--|--|--|
-| /adminmode \<get/switch\> |  | Command to manage the admin mode. | [ X ] | !(unturned-ico)[https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/64x64.png] !(console-ico)[https://img.icons8.com/glyph-neue/64/null/console.png] |
-|  | - get [player] **(\<player\>)¹** | Command to get state of your or player's admin mode. | [ — ] | [ UnturnedUser & Console ] |
-|  | - switch [player] **(\<player\>)** | Command to turn on and off the admin mode. | [ — ] | [ UnturnedUser & Console ] |
-| /fly \<get/switch\> |  | Command to manage the fly modes. | [ — ] | [ UnturnedUser & Console ] |
-|  | - get [player] **(\<player\>)** | Command to get state of your or player's fly modes. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - switch [player] **(\<player\>)** | Command to turn on and off the fly mode. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /god \<get/switch\> |  | Command to manage the god modes. | [ — ] | [ UnturnedUser & Console ] |
-|  | - get [player] **(\<player\>)** | Command to turn on and off the god modes. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - switch [player] **(\<player\>)** | Command to get state of your or player's god modes. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /vanish \<get/switch\> |  | Command to manage the vanish. | [ — ] | [ UnturnedUser & Console ] |
-|  | - get [player] **(\<player\>)** | Command to get state of your or player's vanish. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - switch [player] **(\<player\>)** | Command to turn on and off the vanish. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /food [player] **(\<player\>)** |  | Command to update food for yourself and other players. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /heal [player] **(\<player\>)** |  | Command to heal yourself and other players. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /virus [player] **(\<player\>)** |  | Command to set virus for yourself and other players. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /water [player] **(\<player\>)** |  | Command to set water for yourself and other players. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /compass [North/South/East/West] |  | Command that shows direction you are facing or turn to face a specific direction | [ ✓ ] | [ Only UnturnedUser ] |
-| /position [player] **(\<player\>)** |  | Command that shows your or somebody's position. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /rotation [player] **(\<player\>)** |  | Command that shows your or somebody's rotation. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /tps |  | Command that shows TPS. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /annoucement \<message\> |  | Command to post annoucements. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /chat \<clear/enable/disable\> |  | Command to manage chat. | [ X ] | [ UnturnedUser & Console ] |
-|  | - clear | Command to clear chat. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - disable | Command to disable chat. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - enable | Command to enable chat. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /ascend(up) [distance] |  | Command that teleports you up. | [ ✓ ] | [ Only UnturnedUser ] |
-| /descend(down) [distance] |  | Command that teleports you down. | [ ✓ ] | [ Only UnturnedUser ] |
-| /jump(jmp) |  | Jump to where you're looking. | [ ✓ ] | [ Only UnturnedUser ] |
-| /gravity \<multipler\> [player] **(\<multipler\> \<player\>)** |  | Command to set gravity. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /jumpheight \<multipler\> [player] **(\<multipler\> \<player\>)** |  | Command to set jump height. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /speed \<multipler\> [player] **(\<multipler\> \<player\>)** |  | Command to set speed. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /teleport(tp) [player] \<player/place/marker\> **(\<player\> \<player/place\>)** |  | Command to teleport player to another player or place. | [ ✓ ] | [ UnturnedUser & Console ] |
-| /experience(exp) \<get/add/set/take\> |  | Command to manage your or somebody's experience. | [ X ] | [ UnturnedUser & Console ] |
-|  | - add \<amount\> [player] **(\<amount\> \<player\>)** | Command to add your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - set \<amount\> [player] **(\<amount\> \<player\>)** | Command to set your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - take \<amount\> [player] **(\<amount\> \<player\>)** | Command to take your or somebody's experience. | [ ✓ ] | [ UnturnedUser & Console ] |
-|  | - get [player] **(\<player\>)** | Command to get your or somebody's experience. | [ — ] | [ UnturnedUser & Console ] |
+| /adminmode \<get/switch\> |  | Command to manage the admin mode. | [ X ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - get [player] **(\<player\>)¹** | Command to get state of your or player's admin mode. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - switch [player] **(\<player\>)** | Command to turn on and off the admin mode. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /fly \<get/switch\> |  | Command to manage the fly modes. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - get [player] **(\<player\>)** | Command to get state of your or player's fly modes. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - switch [player] **(\<player\>)** | Command to turn on and off the fly mode. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /god \<get/switch\> |  | Command to manage the god modes. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - get [player] **(\<player\>)** | Command to turn on and off the god modes. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - switch [player] **(\<player\>)** | Command to get state of your or player's god modes. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /vanish \<get/switch\> |  | Command to manage the vanish. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - get [player] **(\<player\>)** | Command to get state of your or player's vanish. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - switch [player] **(\<player\>)** | Command to turn on and off the vanish. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /food [player] **(\<player\>)** |  | Command to update food for yourself and other players. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /heal [player] **(\<player\>)** |  | Command to heal yourself and other players. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /virus [player] **(\<player\>)** |  | Command to set virus for yourself and other players. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /water [player] **(\<player\>)** |  | Command to set water for yourself and other players. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /compass [North/South/East/West] |  | Command that shows direction you are facing or turn to face a specific direction | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)</center></pre> |
+| /position [player] **(\<player\>)** |  | Command that shows your or somebody's position. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /rotation [player] **(\<player\>)** |  | Command that shows your or somebody's rotation. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /tps |  | Command that shows TPS. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /annoucement \<message\> |  | Command to post annoucements. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /chat \<clear/enable/disable\> |  | Command to manage chat. | [ X ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - clear | Command to clear chat. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - disable | Command to disable chat. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - enable | Command to enable chat. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /ascend(up) [distance] |  | Command that teleports you up. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)</center></pre> |
+| /descend(down) [distance] |  | Command that teleports you down. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)</center></pre> |
+| /jump(jmp) |  | Jump to where you're looking. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)</center></pre> |
+| /gravity \<multipler\> [player] **(\<multipler\> \<player\>)** |  | Command to set gravity. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /jumpheight \<multipler\> [player] **(\<multipler\> \<player\>)** |  | Command to set jump height. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /speed \<multipler\> [player] **(\<multipler\> \<player\>)** |  | Command to set speed. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /teleport(tp) [player] \<player/place/marker\> **(\<player\> \<player/place\>)** |  | Command to teleport player to another player or place. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+| /experience(exp) \<get/add/set/take\> |  | Command to manage your or somebody's experience. | [ X ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - add \<amount\> [player] **(\<amount\> \<player\>)** | Command to add your or somebody's experience. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - set \<amount\> [player] **(\<amount\> \<player\>)** | Command to set your or somebody's experience. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - take \<amount\> [player] **(\<amount\> \<player\>)** | Command to take your or somebody's experience. | [ ✓ ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
+|  | - get [player] **(\<player\>)** | Command to get your or somebody's experience. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/null/console.png)</center></pre> |
 
 ¹ - syntax for the command called in the console
