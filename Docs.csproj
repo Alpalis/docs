@@ -87,7 +87,9 @@
     <None Include="templates\alpalisfx\partials\toc.tmpl.partial" />
     <None Include="toc.yml" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="templates\alpalisfx\styles\colors.css" />
     <Content Include="templates\alpalisfx\styles\main.css" />

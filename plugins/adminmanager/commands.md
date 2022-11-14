@@ -3,7 +3,7 @@
 
 | Command(Aliases) | Subcommand | Description | AdminMode Required | Command Actor  |
 |--|--|--|--|--|
-| /adminmode \<get/switch\> |  | Command to manage the admin mode. | [ X ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/BF8264/console.png)</center></pre> |
+| /adminmode \<get/switch\> |  | Command to manage the admin mode. | [ X ] | <pre><center>![unturned-ico](unturned.png)  ![console-ico](console.png)</center></pre> |
 |  | - get [player] **(\<player\>)¹** | Command to get state of your or player's admin mode. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/BF8264/console.png)</center></pre> |
 |  | - switch [player] **(\<player\>)** | Command to turn on and off the admin mode. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/BF8264/console.png)</center></pre> |
 | /fly \<get/switch\> |  | Command to manage the fly modes. | [ — ] | <pre><center>![unturned-ico](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/775a46e8c6d09ce5548db66cc249435c/32/32x32.png)  ![console-ico](https://img.icons8.com/glyph-neue/32/BF8264/console.png)</center></pre> |
