@@ -6,8 +6,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "This is the HOMEPAGE. | Alpalis Docs",
-    "keywords": "This is the HOMEPAGE . Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to images folder if the file is referencing an image."
+    "title": "Alpalis Plugins Documentation | Alpalis Docs",
+    "keywords": "Alpalis Plugins Documentation This documentation website is still under development, but it already has many things you can use. We hope you will come here again."
   },
   "ourteam.html": {
     "href": "ourteam.html",
@@ -136,7 +136,7 @@
   },
   "servers.html": {
     "href": "servers.html",
-    "title": "| Alpalis Docs",
-    "keywords": ""
+    "title": "Servers | Alpalis Docs",
+    "keywords": "Servers Now this page is WIP!"
   }
 }
