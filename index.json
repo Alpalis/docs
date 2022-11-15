@@ -12,7 +12,7 @@
   "ourteam.html": {
     "href": "ourteam.html",
     "title": "Our Team | Alpalis Docs",
-    "keywords": "Our Team ![pandetthe](../../images/pandetthe.png) ## Pandetthe"
+    "keywords": "Our Team ![pandetthe](./images/pandetthe.png) Pandetthe"
   },
   "plugins/adminmanager/about.html": {
     "href": "plugins/adminmanager/about.html",
