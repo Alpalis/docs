@@ -60,10 +60,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "images/not_requred.png",
+      "source_relative_path": "images/not_required.png",
       "output": {
         "resource": {
-          "relative_path": "images/not_requred.png"
+          "relative_path": "images/not_required.png"
         }
       },
       "is_incremental": false,
@@ -128,15 +128,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "plugins/adminmanager/commands.md",
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "WK7QHIglB8ITVTqpXfFMrqfUB/72JLC3TBk7QGnoxls="
+          "hash": "iksdZ30N/G7N+bz60Xl5qplHU2DIoVPekX+56REYNmg="
         }
       },
       "is_incremental": false,
