@@ -1,6 +1,4 @@
 - name: Our Team
   href: ourteam
-- name: Servers
-  href: servers
 - name: Plugins
   href: plugins/

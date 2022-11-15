@@ -418,18 +418,6 @@
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "servers.md",
-      "output": {
-        ".html": {
-          "relative_path": "servers.html",
-          "hash": "LfW9tWP/2cvYoCDE/Ef6GjVAdHXpBbKx37LI6DiuFEY="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "log_codes": [
         "InvalidFileLink"
       ],
@@ -438,7 +426,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "R4RcqfMK2/aLI8EiSrYddw2mPKlbV7OkNpBVK3rzdpE="
+          "hash": "YmTr5lEJsc/0eR7OQG6sZ+VR3+tq+3MG6rKJGhGESjE="
         }
       },
       "is_incremental": false,
@@ -457,7 +445,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 28,
+          "total_file_count": 27,
           "skipped_file_count": 27
         },
         "ResourceDocumentProcessor": {

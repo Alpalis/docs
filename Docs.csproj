@@ -76,7 +76,6 @@
     <None Include="docfx.json" />
     <None Include="index.md" />
     <None Include="packages.config" />
-    <None Include="servers.md" />
     <None Include="templates\alpalisfx\layout\_master.tmpl" />
     <None Include="templates\alpalisfx\partials\footer.tmpl.partial" />
     <None Include="templates\alpalisfx\partials\head.tmpl.partial" />
