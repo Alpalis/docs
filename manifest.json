@@ -71,6 +71,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/pandetthe.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/pandetthe.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/required.png",
       "output": {
         "resource": {
@@ -109,7 +120,7 @@
       "output": {
         ".html": {
           "relative_path": "ourteam.html",
-          "hash": "NGie9Cv+qAl6XuB9InQCjg=="
+          "hash": "C0W5aW+jHruUkdAhUbLrMA=="
         }
       },
       "is_incremental": false,
