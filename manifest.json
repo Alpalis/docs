@@ -133,7 +133,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/commands.html",
-          "hash": "sVwvczK9uN0iCo/bKR/wDw=="
+          "hash": "gFeCOCtCHwQRBxBbiN8l0w=="
         }
       },
       "is_incremental": false,
@@ -313,7 +313,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/queuemanager/commands.html",
-          "hash": "05EONaIBagPSJYpEezoCwQ=="
+          "hash": "5s50QUI5uRzhmd6T3aoWaQ=="
         }
       },
       "is_incremental": false,
@@ -400,7 +400,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/voicesystem/commands.html",
-          "hash": "0nnlQyM/UaZkUdoLbkXWzQ=="
+          "hash": "/7GsVBf/WuUjVUVZeqi4yA=="
         }
       },
       "is_incremental": false,
