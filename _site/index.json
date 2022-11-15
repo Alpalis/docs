@@ -96,8 +96,8 @@
   },
   "plugins/queuemanager/commands.html": {
     "href": "plugins/queuemanager/commands.html",
-    "title": "Commands: | Alpalis Docs",
-    "keywords": "Commands:"
+    "title": "Commands | Alpalis Docs",
+    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /skipqueue <player's steamID> Command for bypassing players in the queue."
   },
   "plugins/userdatamanager/about.html": {
     "href": "plugins/userdatamanager/about.html",
