@@ -42,6 +42,10 @@ h1,h2,h3,h4,h5
     color: var(--link-active-color);
 }
 
+h1 {
+    font-size: 3em;
+}
+
 h1, h2
 {
     margin-block-start: 2em;

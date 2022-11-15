@@ -1,4 +1,8 @@
 ﻿# Our Team
 
-<center>![pandetthe](./images/pandetthe.png)</center>
-<h1><center> Pandetthe </center></h1>
+<br/>
+
+|  |
+|--|
+| <center><img height="200px" src="./images/pandetthe.png"/></center> |
+| <h2><center> Pandetthe </center></h2> |
