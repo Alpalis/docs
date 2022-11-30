@@ -38,6 +38,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/brtx.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/brtx.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/console.png",
       "output": {
         "resource": {
@@ -120,7 +131,7 @@
       "output": {
         ".html": {
           "relative_path": "ourteam.html",
-          "hash": "1ASEgN2xJAxbL9G0+CHoF9uNzWx5PuFVMF9TVb+sb58="
+          "hash": "18M0oNEovuEgefkEO2wA4pdCGvBq1WLEEJPht9nV0vQ="
         }
       },
       "is_incremental": false,
@@ -426,7 +437,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "tDTxMaf/mr5WPy+yjVXLZb6DeIPpEcg6dw8WuwSM5m0="
+          "hash": "YmTr5lEJsc/0eR7OQG6sZ+VR3+tq+3MG6rKJGhGESjE="
         }
       },
       "is_incremental": false,
@@ -446,7 +457,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 27,
-          "skipped_file_count": 26
+          "skipped_file_count": 27
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
