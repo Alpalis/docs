@@ -71,6 +71,15 @@ h4
 
 .role {
     color: var(--role-color);
+    margin-block: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.description {
+    margin-block-end: 1em;
+    text-align: center;
 }
 
 
