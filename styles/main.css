@@ -69,6 +69,10 @@ h4
     margin: 20px 0 0 0;
 }
 
+.role {
+    color: var(--role-color);
+}
+
 
 h5 {
     margin-block-end: .8em;

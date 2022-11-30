@@ -38,6 +38,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/brtx.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/brtx.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/console.png",
       "output": {
         "resource": {
@@ -120,7 +131,7 @@
       "output": {
         ".html": {
           "relative_path": "ourteam.html",
-          "hash": "gff7n/M/oG/aMQDzsZg9dA=="
+          "hash": "wgiE71vEHzMb50uIFK2OvA=="
         }
       },
       "is_incremental": false,
@@ -426,7 +437,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "TCfO/bKF5hsZjdIVkAIpfg=="
+          "hash": "7/8wcb49s1tI/sDsZHPx0A=="
         }
       },
       "is_incremental": false,
