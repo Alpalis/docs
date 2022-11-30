@@ -17,7 +17,7 @@
   "plugins/adminmanager/about.html": {
     "href": "plugins/adminmanager/about.html",
     "title": "AdminManager Plugin | Alpalis Docs",
-    "keywords": "AdminManager Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
+    "keywords": "AdminManager Plugin Work in progress"
   },
   "plugins/adminmanager/commands.html": {
     "href": "plugins/adminmanager/commands.html",
@@ -66,8 +66,8 @@
   },
   "plugins/intro.html": {
     "href": "plugins/intro.html",
-    "title": "| Alpalis Docs",
-    "keywords": "###Test"
+    "title": "Introduction | Alpalis Docs",
+    "keywords": "Introduction"
   },
   "plugins/itemrestriction/about.html": {
     "href": "plugins/itemrestriction/about.html",
@@ -92,12 +92,12 @@
   "plugins/queuemanager/about.html": {
     "href": "plugins/queuemanager/about.html",
     "title": "QueueManager Plugin | Alpalis Docs",
-    "keywords": "QueueManager Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
+    "keywords": "QueueManager Plugin Work in progress"
   },
   "plugins/queuemanager/commands.html": {
     "href": "plugins/queuemanager/commands.html",
     "title": "Commands | Alpalis Docs",
-    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /skipqueue <player's steamID> Command for bypassing players in the queue."
+    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /skipqueue <player's steamID> Bypass players in the queue."
   },
   "plugins/userdatamanager/about.html": {
     "href": "plugins/userdatamanager/about.html",
@@ -112,22 +112,22 @@
   "plugins/utilityservices/about.html": {
     "href": "plugins/utilityservices/about.html",
     "title": "UtilityServices Plugin | Alpalis Docs",
-    "keywords": "UtilityServices Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
+    "keywords": "UtilityServices Plugin Work in progress"
   },
   "plugins/utilityservices/commands.html": {
     "href": "plugins/utilityservices/commands.html",
     "title": "Commands: | Alpalis Docs",
-    "keywords": "Commands:"
+    "keywords": "Commands: Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /config <reload> Manage plugins' configs. - reload [plugin full name] Reload plugins' configs. ¹ - syntax for the command called in the console"
   },
   "plugins/voicesystem/about.html": {
     "href": "plugins/voicesystem/about.html",
     "title": "VoiceSystem Plugin | Alpalis Docs",
-    "keywords": "VoiceSystem Plugin About plugin: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae pellentesque tortor. Suspendisse vulputate suscipit accumsan. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce urna lorem, porttitor et ipsum vel, aliquet hendrerit nisl. Curabitur iaculis risus augue, ullamcorper vulputate odio viverra et. Etiam accumsan auctor lacus laoreet sagittis. Ut sollicitudin convallis libero id sodales. Pellentesque auctor et ex vitae maximus. Aliquam euismod arcu sed tortor molestie, eu convallis nisi porttitor. Morbi sed mollis justo. Donec viverra leo lacus, eu lacinia ligula rutrum in. Nullam mollis pellentesque lorem, quis feugiat magna feugiat quis. Aenean sagittis sodales ultrices. Screenshots:"
+    "keywords": "VoiceSystem Plugin Work in progress"
   },
   "plugins/voicesystem/commands.html": {
     "href": "plugins/voicesystem/commands.html",
     "title": "Commands | Alpalis Docs",
-    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /adminmode <list/switch/get> Command to manage voice range. - list Command to get list of voice ranges. - get [player] (<player>)¹ Command to get your or someone's voice range. - switch [whisper/talk/shout] [player] (<whisper/talk/shout> <player>) Command to change voice range. ¹ - syntax for the command called in the console"
+    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /voicerange <list/switch/get> Command to manage voice range. - list Command to get list of voice ranges. - get [player] (<player>)¹ Command to get your or someone's voice range. - switch [whisper/talk/shout] [player] (<whisper/talk/shout> <player>) Command to change voice range. ¹ - syntax for the command called in the console"
   },
   "README.html": {
     "href": "README.html",

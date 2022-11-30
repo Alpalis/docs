@@ -143,7 +143,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/adminmanager/about.html",
-          "hash": "kF7hwA6sNMGwGVEOmHqYQQ=="
+          "hash": "UhT5wLyJdJ9eRHsBAPGxsA=="
         }
       },
       "is_incremental": false,
@@ -263,7 +263,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/intro.html",
-          "hash": "ngY3Jzz7/it7Dww4wOKcmA=="
+          "hash": "bT/sV+Us6nd5MxWpo76CHg=="
         }
       },
       "is_incremental": false,
@@ -323,7 +323,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/queuemanager/about.html",
-          "hash": "6pszuiCQRBP/rPcmS+8TyQ=="
+          "hash": "52pb7FL4RsoagZ11CVazig=="
         }
       },
       "is_incremental": false,
@@ -335,7 +335,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/queuemanager/commands.html",
-          "hash": "5s50QUI5uRzhmd6T3aoWaQ=="
+          "hash": "oZR969KJxlGPwztGkf1Nqw=="
         }
       },
       "is_incremental": false,
@@ -386,7 +386,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/utilityservices/about.html",
-          "hash": "UkC7tFnhsSm0xkIUq/O9ng=="
+          "hash": "Uht85nHSHPA13YKVAU1/6A=="
         }
       },
       "is_incremental": false,
@@ -398,7 +398,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/utilityservices/commands.html",
-          "hash": "8woimqnMWZ6aXvOZFtrtmg=="
+          "hash": "EWKVXap9KIKAS9GlLOnduQ=="
         }
       },
       "is_incremental": false,
@@ -410,7 +410,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/voicesystem/about.html",
-          "hash": "6EPIJTjqIL5A9ZrtPEebEw=="
+          "hash": "zxQN0b/b+ktN4CkK0iwmBg=="
         }
       },
       "is_incremental": false,
@@ -422,7 +422,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/voicesystem/commands.html",
-          "hash": "/7GsVBf/WuUjVUVZeqi4yA=="
+          "hash": "bMSVci5KAUKfp4oQjYbTlA=="
         }
       },
       "is_incremental": false,
