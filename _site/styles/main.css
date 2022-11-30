@@ -74,6 +74,12 @@ h4
     margin-block: 3em;
 }
 
+.wip-text
+{
+    text-align: center;
+    font-size: 5em;
+}
+
 .role {
     color: var(--role-color);
     margin-block: 1em;
