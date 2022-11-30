@@ -69,6 +69,11 @@ h4
     margin: 20px 0 0 0;
 }
 
+.team 
+{
+    margin-block: 3em;
+}
+
 .role {
     color: var(--role-color);
     margin-block: 1em;
