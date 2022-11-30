@@ -6,54 +6,12 @@
     href: adminmanager/about
   - name: Commands
     href: adminmanager/commands
-- name: BetterInterface
-  items: 
-  - name: About
-    href: betterinterface/about
-  - name: Commands
-    href: betterinterface/commands
-- name: BetterVehicles
-  items: 
-  - name: About
-    href: bettervehicles/about
-  - name: Commands
-    href: bettervehicles/commands
-- name: GarageService
-  items: 
-  - name: About
-    href: garageservice/about
-  - name: Commands
-    href: garageservice/commands
-- name: IdentityManager
-  items: 
-  - name: About
-    href: identitymanager/about
-  - name: Commands
-    href: identitymanager/commands
-- name: ItemRestriction
-  items: 
-  - name: About
-    href: itemrestriction/about
-  - name: Commands
-    href: itemrestriction/commands
-- name: MoreRoleplay
-  items: 
-  - name: About
-    href: moreroleplay/about
-  - name: Commands
-    href: moreroleplay/commands
 - name: QueueManager
   items: 
   - name: About
     href: queuemanager/about
   - name: Commands
     href: queuemanager/commands
-- name: UserDataManager
-  items: 
-  - name: About
-    href: userdatamanager/about
-  - name: Commands
-    href: userdatamanager/commands
 - name: UtilityServices
   items: 
   - name: About

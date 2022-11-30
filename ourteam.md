@@ -4,9 +4,9 @@
 
 |  |
 |--|
-| <h3 class="role"><center>Lead Developer</center></h3> |
+| <div class="role">Lead Developer</div> |
 | <center><img height="200px" src="./images/pandetthe.png"/></center> |
-| <h2><center> Pandetthe </center></h2><center>Contact: pandetthe@gmail.com \| Pandetthe#5444</center> |
-| <h3 class="role"><center>Graphic Designer</center></h3> |
+| <div class="description"><h2>Pandetthe</h2>Contact: pandetthe@gmail.com \| Pandetthe#5444</div> |
+| <div class="role">Graphic Designer</div> |
 | <center><img height="200px" src="./images/brtx.png"/></center> |
-| <h2><center> brTx </center></h2><center>Contact: brtxbusiness@gmail.com \| brTx#1807</center> |
+| <div class="description"><h2>brTx</h2>Contact: brtxbusiness@gmail.com \| brTx#1807</div> |
