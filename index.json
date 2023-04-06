@@ -97,7 +97,7 @@
   "plugins/queuemanager/commands.html": {
     "href": "plugins/queuemanager/commands.html",
     "title": "Commands | Alpalis Docs",
-    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /skipqueue <player's steamID> Bypass players in the queue."
+    "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /skipqueue <player's steamID> Bypass players in the queue. /slots Display amount of slots."
   },
   "plugins/userdatamanager/about.html": {
     "href": "plugins/userdatamanager/about.html",
@@ -117,7 +117,7 @@
   "plugins/utilityservices/commands.html": {
     "href": "plugins/utilityservices/commands.html",
     "title": "Commands: | Alpalis Docs",
-    "keywords": "Commands: Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /config <reload> Manage plugins' configs. - reload [plugin full name] Reload plugins' configs. ¹ - syntax for the command called in the console"
+    "keywords": "Commands: Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /config <reload> Manage plugins' configs. - reload [plugin full name] Reload plugins' configs. - display [plugin full name] Display plugins' configs."
   },
   "plugins/voicesystem/about.html": {
     "href": "plugins/voicesystem/about.html",

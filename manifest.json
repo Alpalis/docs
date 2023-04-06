@@ -38,6 +38,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/QueueManager_Ico_512x512.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/QueueManager_Ico_512x512.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/brtx.png",
       "output": {
         "resource": {
@@ -335,7 +346,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/queuemanager/commands.html",
-          "hash": "oZR969KJxlGPwztGkf1Nqw=="
+          "hash": "pajF8G4d+otjuj7VY/RD/w=="
         }
       },
       "is_incremental": false,
@@ -398,7 +409,7 @@
       "output": {
         ".html": {
           "relative_path": "plugins/utilityservices/commands.html",
-          "hash": "EWKVXap9KIKAS9GlLOnduQ=="
+          "hash": "1P9w8P0nwTh9CxClQ+o9oQ=="
         }
       },
       "is_incremental": false,
