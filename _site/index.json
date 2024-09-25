@@ -1,8 +1,8 @@
 {
-  "api/index.html": {
-    "href": "api/index.html",
-    "title": "PLACEHOLDER | Alpalis Docs",
-    "keywords": "PLACEHOLDER TODO: Add .NET projects to src folder and run docfx to generate a REAL API Documentation !"
+  "README.html": {
+    "href": "README.html",
+    "title": "Docs | Alpalis Docs",
+    "keywords": "Docs"
   },
   "index.html": {
     "href": "index.html",
@@ -129,9 +129,14 @@
     "title": "Commands | Alpalis Docs",
     "keywords": "Commands Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /voicerange <list/switch/get> Command to manage voice range. - list Command to get list of voice ranges. - get [player] (<player>)¹ Command to get your or someone's voice range. - switch [whisper/talk/shout] [player] (<whisper/talk/shout> <player>) Command to change voice range. ¹ - syntax for the command called in the console"
   },
-  "README.html": {
-    "href": "README.html",
-    "title": "Docs | Alpalis Docs",
-    "keywords": "Docs"
+  "plugins/vpnblocker/about.html": {
+    "href": "plugins/vpnblocker/about.html",
+    "title": "VPNBlocker Plugin | Alpalis Docs",
+    "keywords": "VPNBlocker Plugin Alpalis VPNBlocker is the ideal plugin for servers struggling with players bypassing IP bans. It includes implementations of 4 different APIs where each includes a free package. Plugin can be bought on https://imperialplugins.com/Unturned/Products/VPNBlocker. Features 4 different APIs to choose from Mixed API which allows you to use all the APIs at once. This allows for an increase in the number of maximum queries from free packages Ability to set players who don't need to pass the VPN check Configurable message for a player that was rejected from the server Config: # Possible options: VPNAPI, PROXYCHECK, GETIPINTEL, IPHUB, MIXED APIType: UNKNOWN # VPNApi collects data and can detect with it's algorithm proxies, VPN, and Tor nodes # It includes a free plan with hard limitation of 1000 queries per day # To get API key, you have to register on their website https://vpnapi.io/ VPNApiKey: # Proxycheck is a premium proxy and VPN detection API # It includes a free plan with hard limitation of 1000 queries per day # To get API key, you have to register on their website https://proxycheck.io/ ProxyCheckApiKey: # IP Intelligence is VPN detection tool using advanced mathematical and modern computing techniques # It's don't have coded limitations but author is asking to not exceed more than 500 queries per day & 15 queries per minute # Custom packages are available, but you need to contact author # Provided email address below must be valid else your service might be disabled without notice because there is no way to contact you # For more informations check the official website of the project - http://getipintel.net/ GetIpIntelContactEmail: GetIpIntelPaidApiQuery: # IPHub is an IP lookup website featuring VPN detection # It includes a free plan with hard limitation of 1000 queries per day # To get API key, you have to register on their website https://iphub.info/ IPHubApiKey: PassOnBadRequest: false IgnoredSteamIDs: # List of SteamIds # - 00000000000000000"
+  },
+  "plugins/vpnblocker/commands.html": {
+    "href": "plugins/vpnblocker/commands.html",
+    "title": "Commands: | Alpalis Docs",
+    "keywords": "Commands: Command(Aliases) Subcommand(Aliases) Description AdminMode Required Command Actor /vpnblocker <queries> Manage VPN blocker. - queries Return amount of queries sent to APIs in this server session."
   }
 }

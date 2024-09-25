@@ -18,6 +18,12 @@
     href: utilityservices/about
   - name: Commands
     href: utilityservices/commands
+- name: VPNBlocker
+  items: 
+  - name: About
+    href: vpnblocker/about
+  - name: Commands
+    href: vpnblocker/commands
 - name: VoiceSystem
   items: 
   - name: About
