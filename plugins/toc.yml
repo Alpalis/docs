@@ -24,9 +24,9 @@
     href: vpnblocker/about
   - name: Commands
     href: vpnblocker/commands
-- name: VoiceSystem
+- name: ItemRestriction
   items: 
   - name: About
-    href: voicesystem/about
+    href: itemrestriction/about
   - name: Commands
-    href: voicesystem/commands
+    href: itemrestriction/commands
