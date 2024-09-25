@@ -42,3 +42,4 @@ Alpalis VPNBlocker is the ideal plugin for servers struggling with players bypas
     
     IgnoredSteamIDs: # List of SteamIds
     #  - 00000000000000000       
+<div></div>
