@@ -1,7 +1,7 @@
 ﻿# QueueManager Plugin
 
 Alpalis QueueManager is the ideal plugin for most servers. It allows you to manage the queue and the number of slots on the server. This helps you to enter your server without any problems.
-<br>Plugin can be bought on https://imperialplugins.com/Unturned/Products/QueueManager.
+<br>Plugin can be bought on https://imperialplugins.com/Unturned/Products/ALP-QueueManager.
 
 ## Features
 
@@ -35,9 +35,3 @@ Alpalis QueueManager is the ideal plugin for most servers. It allows you to mana
 
     Alpalis.ItemRestriction:adminticket - Administrator ticket for a slot on the server.
     Alpalis.ItemRestriction:vipticket - VIP ticket for a slot on the server.
-
-## Requirements:
-
-**This plugin requires Alpalis UtilityServices that can be found [here](https://github.com/Alpalis/UtilityServices)!**
-
-**All the necessary information on the use of Alpalis plugins can be found on the [official website](https://alpalis.github.io/docs/).**
