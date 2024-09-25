@@ -5,8 +5,9 @@ Alpalis ItemRestriction is the ideal plugin for any server. The plugin provides 
 
 ## Features:
 
-- Ability to restrict all items at once by setting whitelist to true and changing default whitelist item settings
-- Ability to restrict an item during an event, e.g. when crafting it.
+
+\- Ability to restrict all items at once by setting whitelist to true and changing default whitelist item settings.<br>
+\= Ability to restrict an item during an event, e.g. when crafting it.
 
 ## Config:
 
