@@ -19,8 +19,6 @@
   - name: Commands
     href: utilityservices/commands
 - name: VPNBlocker
-  href: vpnblocker/
-  homepage: vpnblocker/about
   items: 
   - name: About
     href: vpnblocker/about
