@@ -3,26 +3,35 @@ name: Main
 on:
   workflow_dispatch:
   push:
-    branches: [ master ]
-    paths:
-      - '.github/workflows/main.yaml'
-      - 'docs/**'
+    branches:
+      - master
+        
+permissions:
+  actions: read
+  pages: write
+  id-token: write
+
 jobs:
-  deploy:
+  publish-docs:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    name: GitHub Pages Deployment
     steps:
-    - uses: actions/checkout@v2
-      name: Checkout Repository
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Dotnet Setup
+      uses: actions/setup-dotnet@v3
       with:
-        fetch-depth: 0
-    - uses: nikeee/docfx-action@v1.0.0
-      name: Build Documentation
+        dotnet-version: 8.x
+
+    - run: dotnet tool update -g docfx
+    - run: docfx docfx.json
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        args: docfx.json
-    - uses: peaceiris/actions-gh-pages@v3
-      name: Publish Documentation on GitHub Pages
-      with:
-        publish_dir: _site
-        personal_token: ${{ secrets.GH_PAT }}
-        publish_branch: page
+        path: '_site'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
