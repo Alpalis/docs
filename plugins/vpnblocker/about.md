@@ -12,34 +12,33 @@ Alpalis VPNBlocker is the ideal plugin for servers struggling with players bypas
 
 ## Config:
 
-    # Possible options: VPNAPI, PROXYCHECK, GETIPINTEL, IPHUB, MIXED
-    APIType: UNKNOWN
+# Possible options: VPNAPI, PROXYCHECK, GETIPINTEL, IPHUB, MIXED
+APIType: UNKNOWN
     
-    # VPNApi collects data and can detect with it's algorithm proxies, VPN, and Tor nodes
-    # It includes a free plan with hard limitation of 1000 queries per day
-    # To get API key, you have to register on their website https://vpnapi.io/
-    VPNApiKey: 
+# VPNApi collects data and can detect with it's algorithm proxies, VPN, and Tor nodes
+# It includes a free plan with hard limitation of 1000 queries per day
+# To get API key, you have to register on their website https://vpnapi.io/
+VPNApiKey: 
     
-    # Proxycheck is a premium proxy and VPN detection API
-    # It includes a free plan with hard limitation of 1000 queries per day
-    # To get API key, you have to register on their website https://proxycheck.io/
-    ProxyCheckApiKey: 
+# Proxycheck is a premium proxy and VPN detection API
+# It includes a free plan with hard limitation of 1000 queries per day
+# To get API key, you have to register on their website https://proxycheck.io/
+ProxyCheckApiKey: 
     
-    # IP Intelligence is VPN detection tool using advanced mathematical and modern computing techniques
-    # It's don't have coded limitations but author is asking to not exceed more than 500 queries per day & 15 queries per minute
-    # Custom packages are available, but you need to contact author
-    # Provided email address below must be valid else your service might be disabled without notice because there is no way to contact you
-    # For more informations check the official website of the project - http://getipintel.net/
-    GetIpIntelContactEmail: 
-    GetIpIntelPaidApiQuery:
+# IP Intelligence is VPN detection tool using advanced mathematical and modern computing techniques
+# It's don't have coded limitations but author is asking to not exceed more than 500 queries per day & 15 queries per minute
+# Custom packages are available, but you need to contact author
+# Provided email address below must be valid else your service might be disabled without notice because there is no way to contact you
+# For more informations check the official website of the project - http://getipintel.net/
+GetIpIntelContactEmail: 
+GetIpIntelPaidApiQuery:
     
-    # IPHub is an IP lookup website featuring VPN detection
-    # It includes a free plan with hard limitation of 1000 queries per day
-    # To get API key, you have to register on their website https://iphub.info/
-    IPHubApiKey:
+# IPHub is an IP lookup website featuring VPN detection
+# It includes a free plan with hard limitation of 1000 queries per day
+# To get API key, you have to register on their website https://iphub.info/
+IPHubApiKey:
     
-    PassOnBadRequest: false
+PassOnBadRequest: false
     
-    IgnoredSteamIDs: # List of SteamIds
-    #  - 00000000000000000       
-<div></div>
+IgnoredSteamIDs: # List of SteamIds
+#  - 00000000000000000       
