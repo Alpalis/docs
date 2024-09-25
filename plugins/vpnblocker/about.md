@@ -1,7 +1,7 @@
 ﻿# VPNBlocker Plugin
 
 Alpalis VPNBlocker is the ideal plugin for servers struggling with players bypassing IP bans. It includes implementations of 4 different APIs where each includes a free package.
-Plugin can be bought on https://imperialplugins.com/Unturned/Products/VPNBlocker.
+<br>Plugin can be bought on https://imperialplugins.com/Unturned/Products/VPNBlocker.
 
 ## Features
 
