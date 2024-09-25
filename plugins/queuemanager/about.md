@@ -17,21 +17,22 @@ Alpalis QueueManager is the ideal plugin for most servers. It allows you to mana
 - /slots - Display amount of slots.
 
 ## Config:
-
-    QueueEnabled: true # If set to false, the queue will work as in normal Unturned
-    ServerSlots: 24
-    VisibleServerSlots: 24
-    QueueSlots: 24
-    CasualSlots: 24
-    VIPSlots: 0
-    AdminSlots: 0
-    Bypassers: # List of SteamIds
-    #  - 00000000000000000
-    WhitelistEnabled: false
-    Whitelist: # List of SteamIds
-    #  - 00000000000000000   
-
+```yaml
+QueueEnabled: true # If set to false, the queue will work as in normal Unturned
+ServerSlots: 24
+VisibleServerSlots: 24
+QueueSlots: 24
+CasualSlots: 24
+VIPSlots: 0
+AdminSlots: 0
+Bypassers: # List of SteamIds
+#  - 00000000000000000
+WhitelistEnabled: false
+Whitelist: # List of SteamIds
+#  - 00000000000000000   
+```
 ## Permissions:
-
-    Alpalis.ItemRestriction:adminticket - Administrator ticket for a slot on the server.
-    Alpalis.ItemRestriction:vipticket - VIP ticket for a slot on the server.
+```yaml
+Alpalis.ItemRestriction:adminticket - Administrator ticket for a slot on the server.
+Alpalis.ItemRestriction:vipticket - VIP ticket for a slot on the server.
+```

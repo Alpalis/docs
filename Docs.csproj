@@ -16,11 +16,8 @@
   <ItemGroup>
     <Content Include="images\console.png" />
     <Content Include="images\unturned.png" />
-    <Content Include="templates\alpalisfx\styles\colors.css" />
-    <Content Include="templates\alpalisfx\styles\main.css" />
-    <Content Include="templates\alpalisfx\styles\down-arrow.svg" />
-    <Content Include="templates\alpalisfx\styles\jquery.twbsPagination.js" />
-    <Content Include="templates\alpalisfx\styles\main.js" />
-    <Content Include="templates\alpalisfx\styles\url.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="templates\" />
   </ItemGroup>
 </Project>

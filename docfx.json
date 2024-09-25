@@ -62,15 +62,15 @@
     "globalMetadata": {
       "_appName": "Alpalis Docs",
       "_appTitle": "Alpalis Docs",
-      "_appFaviconPath": "favicon.ico",
-      "_appLogoPath": "logo.png",
+      "_appFaviconPath": "images/favicon.ico",
+      "_appLogoPath": "images/favicon.ico",
       "_enableSearch": true,
       "_disableAffix": true,
       "_appFooter": "Alpalis Plugins",
       "_disableSideFilter": true
     },
     "fileMetadataFiles": [],
-    "template": [ "default", "templates/alpalisfx" ],
+    "template": [ "default", "modern" ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,

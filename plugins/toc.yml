@@ -1,32 +1,30 @@
 - name: Introduction
-  href: intro
-- name: AdminManager
-  items: 
-  - name: About
-    href: adminmanager/about
-  - name: Commands
-    href: adminmanager/commands
-- name: QueueManager
-  items: 
-  - name: About
-    href: queuemanager/about
-  - name: Commands
-    href: queuemanager/commands
+  href: intro.md
 - name: UtilityServices
   items: 
   - name: About
-    href: utilityservices/about
+    href: utilityservices/about.md
   - name: Commands
-    href: utilityservices/commands
+    href: utilityservices/commands.md
+- name: AdminManager
+  items: 
+  - name: About
+    href: adminmanager/about.md
+  - name: Commands
+    href: adminmanager/commands.md
+- name: QueueManager
+  items: 
+  - name: About
+    href: queuemanager/about.md
+  - name: Commands
+    href: queuemanager/commands.md
 - name: VPNBlocker
   items: 
   - name: About
-    href: vpnblocker/about
+    href: vpnblocker/about.md
   - name: Commands
-    href: vpnblocker/commands
+    href: vpnblocker/commands.md
 - name: ItemRestriction
   items: 
   - name: About
-    href: itemrestriction/about
-  - name: Commands
-    href: itemrestriction/commands
+    href: itemrestriction/about.md

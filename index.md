@@ -1,3 +1,3 @@
-# Alpalis Plugins Documentation
+# Alpalis Documentation
 
-This documentation website is still under development, but it already has many things you can use. We hope you will come here again.
+This is a website with documentation to all products developed by Alpalis.
