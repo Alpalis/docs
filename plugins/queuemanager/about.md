@@ -33,6 +33,6 @@ Whitelist: # List of SteamIds
 ```
 ## Permissions:
 ```yaml
-Alpalis.ItemRestriction:adminticket - Administrator ticket for a slot on the server.
-Alpalis.ItemRestriction:vipticket - VIP ticket for a slot on the server.
+Alpalis.QueueManager:adminticket - Administrator ticket for a slot on the server.
+Alpalis.QueueManager:vipticket - VIP ticket for a slot on the server.
 ```
